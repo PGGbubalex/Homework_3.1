@@ -14,5 +14,6 @@ public class Main {
             double dou = 223.333333;
             System.out.println("Значение переменной dou с типом double равно " + dou);
 
+        // task 1
         }
     }
